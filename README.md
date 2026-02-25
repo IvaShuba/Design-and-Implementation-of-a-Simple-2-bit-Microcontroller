@@ -3,8 +3,7 @@
 ## Overview
 
 This repository documents the design, simulation, and hardware implementation of a **2-bit microcontroller** built entirely from **TTL logic ICs**.  
-The project was originally developed as part of a university course in a team of three.  
-To explore alternative architectures and better understand debugging challenges, a full independent redesign and rebuild was also completed.
+The work includes ALU design, SRAM implementation, opcode handling, timing logic, and full breadboard assembly.
 
 This project demonstrates:
 
